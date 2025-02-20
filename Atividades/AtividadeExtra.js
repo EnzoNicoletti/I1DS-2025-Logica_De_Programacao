@@ -83,4 +83,4 @@ console.log("-------------------------------------------------------");
 console.log("Sequência ordenada em ordem crescente:");
 sequencia.sort();
 console.table(sequencia);
-console.log("-------------------------------------------------------");
+console.log("------------------------------------------------------");
